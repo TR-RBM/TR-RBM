@@ -7,6 +7,10 @@ While I occasionally use Windows when necessary for specific tasks, my preferenc
 
 In terms of programming, I have experience with Python and C#/.NET, including XAML for GUI development.
 
+Most of my public code here on GitHub is coded for fun.
+Do not use my code in production (except if mentioned otherwise) 🚫🔥
+
+
 
 ---
 Here are my code snippets: https://gist.github.com/TR-RBM
